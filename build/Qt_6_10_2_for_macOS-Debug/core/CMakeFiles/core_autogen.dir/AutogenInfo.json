@@ -1,0 +1,85 @@
+{
+	"BUILD_DIR" : "/Users/hasha/Downloads/SaperOnline-2/build/Qt_6_10_2_for_macOS-Debug/core/core_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/hasha/Downloads/SaperOnline-2/build/Qt_6_10_2_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/hasha/Downloads/SaperOnline-2/build/Qt_6_10_2_for_macOS-Debug/core",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/hasha/Downloads/SaperOnline-2/core",
+	"CMAKE_EXECUTABLE" : "/Users/hasha/Qt/Tools/CMake/CMake.app/Contents/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/Users/hasha/Downloads/SaperOnline-2/core/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/Users/hasha/Downloads/SaperOnline-2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/hasha/Downloads/SaperOnline-2/build/Qt_6_10_2_for_macOS-Debug/core/core_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "core_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/Users/hasha/Downloads/SaperOnline-2/core/gamesaper.h",
+			"MU",
+			"EWIEGA46WW/moc_gamesaper.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/hasha/Downloads/SaperOnline-2/build/Qt_6_10_2_for_macOS-Debug/core/core_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/hasha/Downloads/SaperOnline-2/build/Qt_6_10_2_for_macOS-Debug/core/core_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/hasha/Downloads/SaperOnline-2/core",
+		"/Users/hasha/Qt/6.10.2/macos/lib/QtCore.framework/Headers",
+		"/Users/hasha/Qt/6.10.2/macos/lib/QtCore.framework",
+		"/Users/hasha/Qt/6.10.2/macos/mkspecs/macx-clang",
+		"/Users/hasha/Qt/6.10.2/macos/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX26.1.sdk/usr/include/c++/v1",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/17/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX26.1.sdk/usr/include",
+		"/Library/Developer/CommandLineTools/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/clang++",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"/Users/hasha/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/hasha/Downloads/SaperOnline-2/build/Qt_6_10_2_for_macOS-Debug/core/core_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "/Users/hasha/Downloads/SaperOnline-2/build/Qt_6_10_2_for_macOS-Debug/core/CMakeFiles/core_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/hasha/Qt/6.10.2/macos/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/hasha/Qt/6.10.2/macos/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 10,
+	"SETTINGS_FILE" : "/Users/hasha/Downloads/SaperOnline-2/build/Qt_6_10_2_for_macOS-Debug/core/CMakeFiles/core_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/Users/hasha/Downloads/SaperOnline-2/core/gamesaper.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
